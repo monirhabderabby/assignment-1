@@ -119,3 +119,9 @@ p{
     background-position: right;
     background-repeat: no-repeat;
 }
+
+/* Section 5 start from here */
+.application-title{
+    text-align: center;
+    font-size: 40px;
+}
