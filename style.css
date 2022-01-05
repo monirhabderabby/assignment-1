@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    border-left: 5px solid tomato;
+    border-width: 3px;
+    padding-left: 10px;
+}
+.about-me{
+    padding-top: 5%; 
+    padding-left: 10px;
+}
+p{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.title-color{
+    color: #ffad5a;
+}
+.impression{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.explore-button{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 5px;
+}
+.impression > .explore-button{
+    margin-bottom: 20%;
+}
+
+.about-me{
+    width: 100%;
+}
+.myphoto img{
+    width: 50%;
+    padding-left: 15%;
+}
