@@ -7,7 +7,7 @@ h1{
 }
 .half-width{
     width: 40%;
-    float: left;
+    text-align: left;
     margin-top: 2%;
     padding-left: 5%;
     padding-bottom: 100px;
@@ -89,3 +89,33 @@ p{
 }
 
 /* Section 3 start from here */
+.documentation{
+    width: 100%;
+    
+}
+#title{
+    font-size: 30px;
+    color: black;
+}
+.hardwork{
+    display: flex;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(images/dream-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+/*Section 4 start from here*/
+
+.commuinity{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(images/my-bg21.png);
+    background-size: 80px;
+    background-position: right;
+    background-repeat: no-repeat;
+}
