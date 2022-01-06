@@ -55,6 +55,7 @@ p{
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
+    padding-left: 0 auto;
     text-align: left;
     justify-content:space-around;
     margin-bottom: 50px;
@@ -107,18 +108,9 @@ p{
     background-repeat: no-repeat;
 }
 
-/*Section 4 start from here*/
+/*Section 4 start "merged css style" from here*/
 
-.commuinity{
-    display: flex;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-    background-image: url(images/my-bg21.png);
-    background-size: 80px;
-    background-position: right;
-    background-repeat: no-repeat;
-}
+
 
 /* Section 5 start from here */
 .application-title{
